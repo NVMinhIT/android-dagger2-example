@@ -1,1 +1,9 @@
-/build
+/build/intermediates
+/build/outputs
+/build/tmp
+/build/generated/assets
+/build/generated/res
+/build/generated/source/aidl
+/build/generated/source/buildConfig
+/build/generated/source/r
+/build/generated/source/rs
